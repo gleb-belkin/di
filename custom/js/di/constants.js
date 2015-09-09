@@ -23,5 +23,5 @@ var languageConstants = {
     }
 };
 
-var lockMessagePopupImagePath = "custom/img/di/ajax-loader.gif";
+var lockMessagePopupImagePath = "custom/img/general/ajax-loader.gif";
 var millisecondsInADay = 1000*60*60*24;
